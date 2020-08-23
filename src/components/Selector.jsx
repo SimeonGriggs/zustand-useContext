@@ -27,7 +27,7 @@ function Selector() {
           className={option === item ? `bg-green-900` : ``}
           onClick={() => setItem(option)}
         >
-          Add {option}
+          {option}
         </Button>
       ))}
     </div>
