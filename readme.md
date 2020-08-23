@@ -4,7 +4,7 @@ Couldn't find a code example of using [Zustand](https://github.com/react-spring/
 
 So here's one.
 
-## This is my experiment, it's indicative of a perfect method
+## This is my experiment, it's NOT indicative of a perfect method
 
 In fact, each Component uses a different method to interact with the Context's Store.
 
